@@ -2,4 +2,4 @@
 # technology used
 react, react-redux, reduxToolkit
 # functionality
-add, remove, sign-in, sign-up, dark/light mode.
+add/remove items in the cart, sign-in, sign-up, dark/light mode.
